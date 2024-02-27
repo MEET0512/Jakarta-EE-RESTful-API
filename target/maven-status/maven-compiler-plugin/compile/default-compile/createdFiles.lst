@@ -1,0 +1,8 @@
+com\patel\employeedirectory\request\EmployeeRequest.class
+com\patel\employeedirectory\controller\EmployeeController.class
+com\patel\employeedirectory\repository\EmployeeRepository.class
+com\patel\employeedirectory\model\Employee.class
+com\patel\employeedirectory\JakartaRestConfiguration.class
+com\patel\employeedirectory\model\Employee$EmployeeBuilder.class
+com\patel\employeedirectory\request\EmployeeRequest$EmployeeRequestBuilder.class
+com\patel\employeedirectory\resources\JakartaEE10Resource.class
